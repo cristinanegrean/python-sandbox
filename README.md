@@ -1,2 +1,7 @@
 # python-sandbox
-Create a hello word gradle-py project and a CLI with https://github.com/google/python-fire
+Create a hello word gradle-py project using LinkedIn plugin: https://plugins.gradle.org/plugin/com.linkedin.python
+
+Compare various Python packages for creating beautiful command line interfaces in a composable way with as little code as necessary:
+* [fire](https://github.com/google/python-fire)
+* [click](http://click.pocoo.org/5/)
+* [argparse](https://docs.python.org/3/library/argparse.html)
