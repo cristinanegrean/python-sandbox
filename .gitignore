@@ -1,0 +1,8 @@
+.idea
+*.iml
+.gradle
+activate
+build/
+gradle/
+pinned.txt
+src/python_sandbox.egg-info/
